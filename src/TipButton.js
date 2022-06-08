@@ -3,7 +3,7 @@ import './button.css'
 
 class TipButton extends Component {
   state = {
-    amount: "80"
+    amount: "50"
   }
 
   // Open and close the modal
