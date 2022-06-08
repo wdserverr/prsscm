@@ -471,7 +471,7 @@ class App extends Component {
         onClick={this.nearLogin}
       >
         Buy
-        for 80 Ⓝ
+        for 50 Ⓝ
       </button>
     }
                               <a className=" inline-block text-center relative whitespace-nowrap rounded-md font-medium text-body transition duration-150 ease-in-out bg-gray-800 text-gray-200 hover:bg-opacity-70 py-3 px-4 text-sm w-full block">Place
